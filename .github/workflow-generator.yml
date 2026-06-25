@@ -1,0 +1,7 @@
+workflow:
+  generator:
+    project:
+      java:
+        versions:
+          primary: 17
+
